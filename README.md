@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAiU14 [Shivanarayan]
 - 👀 I’m interested in development [Seeking to explore the ways of game development]
 - 🌱 I’m currently learning Advanced/Intermediate Python Programming Language
-- 💞️ I’m looking to collaborate on React JS/Unity
+- 💻 I’m looking to collaborate on Python based projects. 
 - 📫 Reach me anytime on Discord. [RAiU#3407] 📧shivnarayan19999@gmail.com
 
 <!---
