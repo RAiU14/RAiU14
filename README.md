@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivanarayan V
-- 👀 I’m interested in development. [Seeking to explore the ways of game development in particualr.]
+- 👀 I’m interested in development. [Seeking to explore the ways of game development in particular.]
 - 🌱 I’m currently learning Advanced/Intermediate Python Programming Language
 - 💻 I’m looking to collaborate on Python based projects. 
 - 📫 Reach me anytime on Discord. [RAiU#3407] 
