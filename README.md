@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivanarayan V
-- 🏭 Working @NTT Ltd
+- 🏭 Working @NTT Data Inc
 - 💻 I’m looking to collaborate on Python based projects. 
 - 📫 Reach me anytime on Discord. [RAiU#3407] 
 - 🤖 Automating networking concepts.
